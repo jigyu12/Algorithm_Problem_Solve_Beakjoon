@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Visual Studio Projects\Beakjoon\Baekjoon_C++\2745\main.cpp(14,26): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Visual Studio Projects\Beakjoon\Baekjoon_C++\2745\main.cpp(17,26): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  2745.vcxproj -> C:\Visual Studio Projects\Beakjoon\Baekjoon_C++\백준 C++ 문제 풀이\x64\Debug\2745.exe

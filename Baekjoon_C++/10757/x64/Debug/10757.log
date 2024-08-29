@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Visual Studio Projects\Beakjoon\Baekjoon_C++\10757\main.cpp(12,23): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Visual Studio Projects\Beakjoon\Baekjoon_C++\10757\main.cpp(15,23): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  10757.vcxproj -> C:\Visual Studio Projects\Beakjoon\Baekjoon_C++\백준 C++ 문제 풀이\x64\Debug\10757.exe
