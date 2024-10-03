@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KGA\\Desktop\\Beakjoon\\Beakjoon\\Baekjoon_C\u002B\u002B\\\uBC31\uC900 C\u002B\u002B \uBB38\uC81C \uD480\uC774\\",
+  "WorkspaceRootPath": "C:\\Visual Studio Projects\\Beakjoon\\Baekjoon_C\u002B\u002B\\\uBC31\uC900 C\u002B\u002B \uBB38\uC81C \uD480\uC774\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B20D7FC8-D2F3-4CE5-AF4F-A08E50E5B6CB}|..\\31403\\31403.vcxproj|C:\\Users\\KGA\\Desktop\\Beakjoon\\Beakjoon\\Baekjoon_C\u002B\u002B\\31403\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B20D7FC8-D2F3-4CE5-AF4F-A08E50E5B6CB}|..\\31403\\31403.vcxproj|C:\\Visual Studio Projects\\Beakjoon\\Baekjoon_C\u002B\u002B\\31403\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,13 +31,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Beakjoon\\Beakjoon\\Baekjoon_C\u002B\u002B\\31403\\main.cpp",
+              "DocumentMoniker": "C:\\Visual Studio Projects\\Beakjoon\\Baekjoon_C\u002B\u002B\\31403\\main.cpp",
               "RelativeDocumentMoniker": "..\\31403\\main.cpp",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\Beakjoon\\Beakjoon\\Baekjoon_C\u002B\u002B\\31403\\main.cpp",
+              "ToolTip": "C:\\Visual Studio Projects\\Beakjoon\\Baekjoon_C\u002B\u002B\\31403\\main.cpp",
               "RelativeToolTip": "..\\31403\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-02T01:17:30.579Z",
+              "WhenOpened": "2024-10-03T03:59:55.332Z",
               "EditorCaption": ""
             }
           ]
