@@ -1,11 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Visual Studio Projects\\Beakjoon\\Baekjoon_C\u002B\u002B\\\uBC31\uC900 C\u002B\u002B \uBB38\uC81C \uD480\uC774\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1AD4BE-4A9D-446C-BE96-8B4D2AB94F4D}|..\\28702\\28702.vcxproj|C:\\Visual Studio Projects\\Beakjoon\\Baekjoon_C\u002B\u002B\\28702\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -13,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 291,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,19 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Visual Studio Projects\\Beakjoon\\Baekjoon_C\u002B\u002B\\28702\\main.cpp",
-              "RelativeDocumentMoniker": "..\\28702\\main.cpp",
-              "ToolTip": "C:\\Visual Studio Projects\\Beakjoon\\Baekjoon_C\u002B\u002B\\28702\\main.cpp",
-              "RelativeToolTip": "..\\28702\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-14T02:44:38.026Z",
-              "EditorCaption": ""
             }
           ]
         },
