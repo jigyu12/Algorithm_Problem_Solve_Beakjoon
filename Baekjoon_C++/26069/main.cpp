@@ -9,14 +9,17 @@ int main()
 	std::cout.tie(NULL);
 	std::ios_base::sync_with_stdio(false);
 
-	int dancePeoplesCount;
+	/*int dancePeoplesCount;
 	std::cin >> dancePeoplesCount;
-	std::getchar();
+	std::getchar();*/
+
+	std::string dancePeopleCount;
+	std::getline(std::cin, dancePeopleCount);
 
 	std::unordered_set<std::string> dancePeople;
 
 	std::string name[2];
-	for (int i = 0; i < dancePeoplesCount; i++)
+	for (int i = 0; i < std::stoi(dancePeopleCount); i++)
 	{
 		std::string inputName;
 		std::getline(std::cin, inputName);
