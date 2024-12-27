@@ -24,7 +24,7 @@ int main()
 	std::ios_base::sync_with_stdio(false);
 
 	int num;
-	while (std::cin >> num)
+	while (std::cin >> num) // std::getline()µµ °¡´É
 	{
 		std::vector<bool> set((int)std::pow(3, num), true);
 
