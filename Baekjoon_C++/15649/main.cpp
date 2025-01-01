@@ -47,4 +47,7 @@ int main()
 		isVisited[i] = false;
 
 	PrintPermutation(0);
+
+	delete[] printArray;
+	delete[] isVisited;
 }
